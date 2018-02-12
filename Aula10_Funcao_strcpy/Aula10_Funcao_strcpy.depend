@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1517343293 source:c:\users\kryptonian\documents\programação\codeblock\aula10_funcao_strcpy\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<tchar.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1517345642 source:c:\users\kryptonian\documents\programação\codeblock\aula10_funcao_strcat\main.cpp
+	<iostream>
+	<string.h>
+	<locale.h>
+	<stdio.h>
+

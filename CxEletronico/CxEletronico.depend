@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1517351471 source:c:\users\kryptonian\documents\programação\codeblock\cxeletronico\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<dos.h>
+	<windows.h>
+

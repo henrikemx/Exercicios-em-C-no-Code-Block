@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1517342343 source:c:\users\kryptonian\documents\programação\codeblock\aula 10\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<tchar.h>
+

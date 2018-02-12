@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1517347527 source:c:\users\kryptonian\documents\programação\codeblock\simulcxeletr\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
